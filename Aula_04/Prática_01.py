@@ -28,4 +28,3 @@ elif codigo >= 25 and codigo <= 30:
 else:
     procedencia = "Importado"
     print("Preço:", preco, "Procedência:", procedencia)
-#

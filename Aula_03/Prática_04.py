@@ -11,4 +11,3 @@ if salário < 1250:
     print("O funcionário tem direito a 15% de aumento")
     print("O novo salário vai ser R$ %.2f" % novo_salário)
     print("Parabéns pelo novo salário!")
-#

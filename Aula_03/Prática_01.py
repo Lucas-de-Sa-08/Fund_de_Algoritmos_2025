@@ -6,4 +6,3 @@ if a > b:
 
 if a < b:
     print("Maior:");print(b)
-#

@@ -7,4 +7,3 @@ if Km <= 200:
 else:
     Preço = Km * 0.45
     print("O preço que você vai pagar é: R$")
-#

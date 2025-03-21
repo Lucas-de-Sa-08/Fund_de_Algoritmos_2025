@@ -8,4 +8,3 @@ if Idade >= 18:
 
 else:
     print("Você ainda não pode tirar a CNH")
-#

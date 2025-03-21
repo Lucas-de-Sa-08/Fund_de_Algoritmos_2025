@@ -14,4 +14,3 @@ if a == 6:
     print("Sexta")
 if a == 7:
     print("Sábado")
-#
