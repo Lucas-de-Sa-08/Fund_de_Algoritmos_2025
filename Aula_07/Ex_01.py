@@ -7,4 +7,4 @@ def soma(x,y):
 # aqui inicia a execucão do código
 #---------------------------------
 
-media(5,6)
+soma(5,6)

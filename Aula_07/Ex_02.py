@@ -6,4 +6,4 @@ def soma(x,y):
 # aqui inicia a execucão do código
 #---------------------------------
 
-print("Resultado da média: ", media(5,6))
+print("Resultado da média: ", soma(5,6))
