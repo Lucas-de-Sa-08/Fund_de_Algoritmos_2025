@@ -17,7 +17,7 @@ print("\nLista: ", numeros)
 print("\nSoma dos elementos pares: ", soma_pares)
 print("\nSoma dos índices pares: ", soma_indice_par)
 
-# Criar uma lista com 10 elementos fornecidos pelo usuário
+
 #numeros = []
 #for i in range(10):
 #    num = int(input(f"Digite o {i+1}o numero: "))
@@ -29,6 +29,6 @@ print("\nSoma dos índices pares: ", soma_indice_par)
 # Calcular a soma dos elementos nos índices pares
 #soma_indices_pares = sum(numeros[i] for i in range(0, 10, 2))
 
-# Exibir os resultados
-#print(f"Soma dos elementos pares: {soma_pares}")
-#print(f"Soma dos elementos nos índices pares: {soma_indices_pares}")
+#print("\nLista: ", numeros)
+#print("\nSoma dos elementos pares: ", soma_pares)
+#print("\nSoma dos índices pares: ", soma_indice_par)
