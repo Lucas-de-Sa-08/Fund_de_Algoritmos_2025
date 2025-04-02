@@ -7,9 +7,9 @@
 T = [11, 7, 2, 4]
 menor = 999999
 
-for idx in range(len(T)):
-    if T[idx] < menor:
-        menor = T[idx]
+for i in range(len(T)):
+    if T[i] < menor:
+        menor = T[i]
 
 print(T)
 print("Menor valor: ", menor)
